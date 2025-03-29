@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="mensagem_abaixo_peso">Continue se alimentando de forma saudável e consulte um nutricionista!</string>
+    <string name="mensagem_peso_normal">Parabéns! Continue mantendo hábitos saudáveis!</string>
+    <string name="mensagem_sobrepeso">Alguns ajustes na dieta e atividade física podem te ajudar!</string>
+    <string name="mensagem_obesidade1">Consulte um profissional para um plano de saúde personalizado!</string>
+    <string name="mensagem_obesidade2">É importante buscar orientação médica para sua saúde!</string>
+    <string name="mensagem_obesidade3">Procure ajuda médica para um plano de saúde adequado!</string>
+
+
+</resources>
